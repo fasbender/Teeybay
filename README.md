@@ -2,6 +2,8 @@
 
 How to run the apllication
 
+npm i to reinstall all the packages
+
 For Backend
 1. cd server
 2. nodemon index.js
