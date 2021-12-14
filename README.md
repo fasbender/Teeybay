@@ -7,6 +7,6 @@ For Backend
 2. nodemon index.js
 
 For Frontend
-just npm start and credentials for login is username: sazim, password: sazim10
+just cd client, npm start and credentials for login is username: sazim, password: sazim10
 
 That's it
